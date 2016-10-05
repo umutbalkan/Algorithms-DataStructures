@@ -2,6 +2,7 @@
     Staircase - HackerRank
     link - https://www.hackerrank.com/challenges/staircase
     @umut
+*/
 #include <iostream>
 using namespace std;
 
