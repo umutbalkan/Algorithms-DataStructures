@@ -22,7 +22,6 @@ int main(){
     int* hour = new int[2];
     
     // char - '0' converts char type number to int.
-    // 48 ASCII value (for '0') - 57 ASCII value (for '9').
     // 57(ascii for 9) - 48 (ascii for 0) = 9
     hour[0] = time[0] - '0';
     hour[1] = time[1] - '0';
