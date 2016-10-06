@@ -1,6 +1,7 @@
 /*
     Time Conversion - HackerRank
     @umut
+    link : https://www.hackerrank.com/challenges/time-conversion
 */
 
 #include <cstdio>
