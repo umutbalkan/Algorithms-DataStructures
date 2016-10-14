@@ -4,7 +4,7 @@
 	link: https://www.hackerrank.com/challenges/tree-inorder-traversal
 */
 
-// Node is defined as  
+/* Node is defined as  
 struct node
 {
     int data;
@@ -12,7 +12,7 @@ struct node
     node* right;
 };
 
-*/
+/*
 
 
 void postOrder(node *root) {
