@@ -12,7 +12,7 @@ struct node
     node* right;
 };
 
-/*
+*/
 
 
 void postOrder(node *root) {
