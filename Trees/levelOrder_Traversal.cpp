@@ -14,6 +14,7 @@ void LevelOrder(node* root)
     
     queue<node*> q;
 	q.push(root);
+	q.pop();
 	while (!q.empty()){
 		node* n = q.front(); // .pop() is a void function, front returns the element
         q.pop();
